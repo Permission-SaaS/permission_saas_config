@@ -62,3 +62,8 @@ curl http://localhost:8888/audit-service/prod
 ```bash
 ./mvnw clean package
 ```
+
+## Licença
+
+Todos os direitos reservados a Jairo Williams Guedes Lopes Neto. O código é público só para consulta
+e avaliação; ver [`LICENSE`](LICENSE).
