@@ -1,5 +1,6 @@
 # Config Server: serve a configuração centralizada dos outros serviços. Os arquivos
-# ficam em config-repo/ na raiz do repositório (backend "native", lido do disco):
+# ficam no config-repo/ do repositório guarda-chuva, permission_saas (backend "native",
+# lido do disco):
 # <aplicação>-<profile>.yml vale para uma aplicação, application-<profile>.yml para todas.
 spring:
   application:
